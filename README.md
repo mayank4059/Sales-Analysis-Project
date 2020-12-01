@@ -27,6 +27,7 @@ WHAT IS OVERALL SALES TREND?
 3. Plot the new dataframe with X axis as Month-Year and Y axis as COmbined Month Sales
 
 Result :
+
 ![Screen Shot 2020-12-02 at 1 02 59 AM](https://user-images.githubusercontent.com/75334301/100787922-5ee8e180-343a-11eb-8e33-8c4319160e2e.png)
 
 WHICH IS MOST PREFERRED SHIPPING MODE?
@@ -34,6 +35,7 @@ WHICH IS MOST PREFERRED SHIPPING MODE?
 1. Counting and grouping each Ship mode using Seaborn
 
 Result :
+
 ![Screen Shot 2020-12-02 at 1 03 39 AM](https://user-images.githubusercontent.com/75334301/100789500-893b9e80-343c-11eb-9e53-b71c8259ada3.png)
 
 WHICH ARE PROFITABLE CATEGORIES AND SUB-CATEGORIES?
@@ -42,5 +44,6 @@ WHICH ARE PROFITABLE CATEGORIES AND SUB-CATEGORIES?
 2. Sort the data in descending order.
 
 Result : 
+
 ![Screen Shot 2020-12-02 at 1 03 54 AM](https://user-images.githubusercontent.com/75334301/100789508-8e005280-343c-11eb-9fd6-98395d36bb1c.png)
 
