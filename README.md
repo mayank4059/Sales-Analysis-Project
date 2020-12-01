@@ -30,14 +30,6 @@ Result :
 
 ![Screen Shot 2020-12-02 at 1 02 59 AM](https://user-images.githubusercontent.com/75334301/100787922-5ee8e180-343a-11eb-8e33-8c4319160e2e.png)
 
-WHICH IS MOST PREFERRED SHIPPING MODE?
-- Approach
-1. Counting and grouping each Ship mode using Seaborn
-
-Result :
-
-![Screen Shot 2020-12-02 at 1 35 43 AM](https://user-images.githubusercontent.com/75334301/100791103-c6a12b80-343e-11eb-9e59-8b80639b74be.png)
-
 WHICH ARE PROFITABLE CATEGORIES AND SUB-CATEGORIES?
 - Approach
 1. Filter out a new data set with categories, its sub Categories and the respective Profits
@@ -47,3 +39,27 @@ Result :
 
 ![Screen Shot 2020-12-02 at 1 03 54 AM](https://user-images.githubusercontent.com/75334301/100789508-8e005280-343c-11eb-9fd6-98395d36bb1c.png)
 
+WHICH ARE TOP 10 PRODUCTS BY SALE?
+- Approach
+1. We need two columns, product name and the sales. 
+2. We will get the combined sale for that project using groupby
+3. Arrange it in decending order and print out top 10 objects.
+
+Result : 
+
+WHICH ARE MOST SELLING PRODUCTS?
+- Approach
+1. We need a table which contain Product name and the combined quantity sold.
+2. Group that into a dataframe.
+3. Arrange them in descending order and print only first 5.
+
+Result : 
+
+
+WHICH IS MOST PREFERRED SHIPPING MODE?
+- Approach
+1. Counting and grouping each Ship mode using Seaborn
+
+Result :
+
+![Screen Shot 2020-12-02 at 1 35 43 AM](https://user-images.githubusercontent.com/75334301/100791103-c6a12b80-343e-11eb-9e59-8b80639b74be.png)
