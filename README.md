@@ -36,7 +36,7 @@ WHICH IS MOST PREFERRED SHIPPING MODE?
 
 Result :
 
-![Screen Shot 2020-12-02 at 1 03 39 AM](https://user-images.githubusercontent.com/75334301/100789500-893b9e80-343c-11eb-9e53-b71c8259ada3.png)
+![Screen Shot 2020-12-02 at 1 35 43 AM](https://user-images.githubusercontent.com/75334301/100791103-c6a12b80-343e-11eb-9e59-8b80639b74be.png)
 
 WHICH ARE PROFITABLE CATEGORIES AND SUB-CATEGORIES?
 - Approach
