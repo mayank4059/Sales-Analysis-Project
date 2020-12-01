@@ -47,6 +47,8 @@ WHICH ARE TOP 10 PRODUCTS BY SALE?
 
 Result : 
 
+![Screen Shot 2020-12-02 at 1 39 40 AM](https://user-images.githubusercontent.com/75334301/100791513-5a72f780-343f-11eb-8894-8522acc8b60d.png)
+
 WHICH ARE MOST SELLING PRODUCTS?
 - Approach
 1. We need a table which contain Product name and the combined quantity sold.
@@ -55,6 +57,7 @@ WHICH ARE MOST SELLING PRODUCTS?
 
 Result : 
 
+![Screen Shot 2020-12-02 at 1 39 31 AM](https://user-images.githubusercontent.com/75334301/100791524-5d6de800-343f-11eb-85be-bc486bca0781.png)
 
 WHICH IS MOST PREFERRED SHIPPING MODE?
 - Approach
